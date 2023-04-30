@@ -68,6 +68,7 @@ python manage.py runserver
 
 ## Автор не совсем
 - [Oraz Ersultan](http://t.me/Floyxkag) — Student Front-End Engineer
+- [Tolegenov Berik](https://t.me/Tulegenovvvvvv) — Student Front-End Engineer
 
 ## Источники
 Learn Django by Building an Online Marketplace – Python Tutorial for Beginners - [Ссылка](https://youtu.be/ZxMB6Njs3ck)
